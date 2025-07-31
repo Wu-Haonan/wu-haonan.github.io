@@ -418,7 +418,7 @@ ninja.data = [{
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
             },},{id: "news-i-passed-the-qualifying-exam-in-the-cse-phd-program-at-penn-state",
-          title: 'I passed the Qualifying Exam in the CSE PhD program at Penn State...',
+          title: 'I passed the Qualifying Exam in the CSE PhD program at Penn State....',
           description: "",
           section: "News",},{id: "news-our-paper-a-k-mer-based-estimator-of-the-substitution-rate-between-repetitive-sequences-was-accepted-by-wabi-2025",
           title: 'Our Paper A k-mer-based estimator of the substitution rate between repetitive sequences was...',
