@@ -1,11 +1,11 @@
 ---
 layout: page
-title: projects
+title: Travelling Gallery
 permalink: /projects/
 description: A growing collection of your cool projects.
 nav: true
 nav_order: 4
-display_categories: [work, fun]
+display_categories: [State College, Pittsburgh, Orlando, Miami, Tampa, New York, Family]
 horizontal: false
 ---
 
