@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I passed the Qualifying Exam in the CSE PhD program at Penn State. 
+I passed the Qualifying Exam in the CSE PhD program at Penn State 🎓. 
