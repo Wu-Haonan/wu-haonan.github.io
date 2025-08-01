@@ -3,7 +3,6 @@ layout: post
 title: Expectation of absolute distance in Random walk
 tags: Algorithm_Design_and_Analysis Random_walk
 categories: Algorithm_Design_and_Analysis Random_walk
-giscus_comments: true
 toc:
   sidebar: left
 ---
