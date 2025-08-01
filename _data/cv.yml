@@ -13,26 +13,25 @@
   contents:
     - title: PhD student
       institution: The Pennsylvania State University (PSU), USA 
-      year: Aug. 2023 - present
+      year: 2023.08 - present
       description:
         - Ph.D. in Computer Science and Engineering 
-        - Supervisor: Prof. Paul Medvedev
+        - Supervisor Prof. Paul Medvedev
         # - title: Description 3.
         #   contents:
         #     - Sub-description 1.
         #     - Sub-description 2.
     - title: Master of Science in Operational Research and Cybernetics
       institution: Shandong University (SDU), China
-      year: Sep. 2020 - Jun. 2023
-      description:
-        - GPA: 92.17/100
-        - Relevant Coursework: Graphs and Digraphs, Combinatorial Optimization, Analysis and Design of Algorithms, Modern Functional Analysis, Elements of Modern Algebra, Mathematical Analysis
+      year: 2020.08 - 2023.06
+      GPA: 92.17/100
+      Relevant Coursework:
+      Graphs and Digraphs, Combinatorial Optimization, Analysis and Design of Algorithms, Modern Functional Analysis, Elements of Modern Algebra, Mathematical Analysis
     - title: Bachelor of Science in Biotechnology
       institution: Shandong University (SDU), China
-      year: Sep. 2016 - Jun. 2020
-      description:
-        - GPA: 90.65/100
-        - Relevant Coursework: Biochemistry, Cell Biology, Molecular Biology
+      year: 2016.09 - 2020.06
+      GPA: 90.65/100
+      Relevant Coursework: Biochemistry, Cell Biology, Molecular Biology
 
 # - title: Experience
 #   type: time_table
