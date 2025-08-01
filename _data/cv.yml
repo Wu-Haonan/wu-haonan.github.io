@@ -23,14 +23,14 @@
       institution: Shandong University (SDU), China
       year: 2020.09 - 2023.06
       description:
-        - GPA 92.17/100
-        - Relevant Coursework： Graphs and Digraphs, Combinatorial Optimization, Analysis and Design of Algorithms, Modern Functional Analysis, Elements of Modern Algebra, Mathematical Analysis
+        - "GPA: 92.17/100"
+        - "Relevant Coursework: Graphs and Digraphs, Combinatorial Optimization, Analysis and Design of Algorithms, Modern Functional Analysis, Elements of Modern Algebra, Mathematical Analysis"
     - title: Bachelor of Science in Biotechnology
       institution: Shandong University (SDU), China
       year: 2016.09 - 2020.06
       description:
-        - GPA 90.65/100
-        - Relevant Coursework： Biochemistry, Cell Biology, Molecular Biology
+        - "GPA: 90.65/100"
+        - "Relevant Coursework: Biochemistry, Cell Biology, Molecular Biology"
 
 # - title: Experience
 #   type: time_table
