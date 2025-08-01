@@ -11,7 +11,7 @@
 - title: Education
   type: time_table
   contents:
-    - title: PhD student
+    - title: Ph.D. student
       institution: The Pennsylvania State University (PSU), USA 
       year: 2023.08 - present
       description:
@@ -23,7 +23,7 @@
         #     - Sub-description 2.
     - title: Master of Science in Operational Research and Cybernetics
       institution: Shandong University (SDU), China
-      year: 2020.08 - 2023.06
+      year: 2020.09 - 2023.06
       GPA: 92.17/100
       Relevant Coursework:
       Graphs and Digraphs, Combinatorial Optimization, Analysis and Design of Algorithms, Modern Functional Analysis, Elements of Modern Algebra, Mathematical Analysis
