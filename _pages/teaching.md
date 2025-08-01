@@ -12,10 +12,10 @@ nav_order: 3
 - [WABI 2025](https://wabiconf.github.io/2025/talks/talk16/), University of Maryland, MD, USA
   
 - Graphs and Digraphs, School of Mathematics, SDU, China, Spring 2022
-  - Topic&#58; Applications of Digraph in bioinformatics and computational biology
+  - Topic - Applications of Digraph in bioinformatics and computational biology
   
 - Sequence and Assembly Seminar, School of Mathematics and Statistics, SDU, China, Fall 2019
-  - Topic&#58; Introduction of Single Molecular Sequence and assembly algorithms for long-reads
+  - Topic - Introduction of Single Molecular Sequence and assembly algorithms for long-reads
     
 # Posters
 
