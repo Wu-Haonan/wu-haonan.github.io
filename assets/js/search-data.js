@@ -55,6 +55,303 @@ ninja.data = [{
             window.location.href = "/blog/2023/Random_Walk/";
           
         },
+      },{id: "post-randomized-algs-permutation-routing-problem",
+        
+          title: "Randomized Algs:Permutation Routing Problem",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2023/ADA_Lec_27/";
+          
+        },
+      },{id: "post-randomized-algs-chernoff-bound",
+        
+          title: "Randomized Algs:Chernoff Bound",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2023/ADA_Lec_26/";
+          
+        },
+      },{id: "post-randomized-algs-randomized-selection",
+        
+          title: "Randomized Algs:Randomized Selection",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2023/ADA_Lec_25/";
+          
+        },
+      },{id: "post-randomized-algs-occupancy-problems-amp-markov-39-s-and-chebyshev-39-s-inequalities",
+        
+          title: "Randomized Algs:Occupancy Problems &amp; Markov&#39;s and Chebyshev&#39;s inequalities",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2023/ADA_Lec_24/";
+          
+        },
+      },{id: "post-randomized-algs-randomized-min-cut",
+        
+          title: "Randomized Algs:Randomized Min-Cut",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2023/ADA_Lec_23/";
+          
+        },
+      },{id: "post-randomized-algs-randomized-quicksort",
+        
+          title: "Randomized Algs:Randomized QuickSort",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2023/ADA_Lec_22/";
+          
+        },
+      },{id: "post-rounding-and-dynamic-programming-parallel-machines-job-scheduling",
+        
+          title: "Rounding and Dynamic Programming:Parallel Machines Job Scheduling",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2023/ADA_Lec_21/";
+          
+        },
+      },{id: "post-rounding-and-dynamic-programming-parallel-macines-job-scheduling",
+        
+          title: "Rounding and Dynamic Programming:Parallel Macines Job Scheduling",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2023/ADA_Lec_20/";
+          
+        },
+      },{id: "post-gready-alg-and-local-search-minimum-degree-spanning-tree",
+        
+          title: "Gready Alg and Local Search:Minimum-Degree Spanning Tree",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2023/ADA_Lec_19/";
+          
+        },
+      },{id: "post-gready-alg-and-local-search-parallel-macines-job-scheduling",
+        
+          title: "Gready Alg and Local Search:Parallel Macines Job Scheduling",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2023/ADA_Lec_18/";
+          
+        },
+      },{id: "post-gready-alg-and-local-search-the-k-center-problem",
+        
+          title: "Gready Alg and Local Search:The k-center problem",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2023/ADA_Lec_17/";
+          
+        },
+      },{id: "post-gready-alg-and-local-search-single-macine-job-scheduling",
+        
+          title: "Gready Alg and Local Search:Single Macine Job Scheduling",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2023/ADA_Lec_16/";
+          
+        },
+      },{id: "post-intro-appro-alg-randomized-rounding-algorithm",
+        
+          title: "Intro Appro Alg:Randomized Rounding Algorithm",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2023/ADA_Lec_15/";
+          
+        },
+      },{id: "post-intro-appro-alg-gready-algorithm",
+        
+          title: "Intro Appro Alg:Gready Algorithm",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2023/ADA_Lec_14/";
+          
+        },
+      },{id: "post-intro-appro-alg-primal-dual-method",
+        
+          title: "Intro Appro Alg:Primal-Dual Method",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2023/ADA_Lec_13/";
+          
+        },
+      },{id: "post-intro-appro-alg-rounding-and-dual-rounding-algorithm",
+        
+          title: "Intro Appro Alg:Rounding and Dual rounding algorithm",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2023/ADA_Lec_12/";
+          
+        },
+      },{id: "post-intro-appro-alg-definition-and-lp-techniques",
+        
+          title: "Intro Appro Alg:Definition and LP techniques",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2023/ADA_Lec_11/";
+          
+        },
+      },{id: "post-linear-programming-and-its-dual-problem",
+        
+          title: "Linear Programming and Its Dual Problem",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2023/ADA_Lec_10/";
+          
+        },
+      },{id: "post-np-np-complete-problems",
+        
+          title: "NP, NP-Complete Problems",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2023/ADA_Lec_9/";
+          
+        },
+      },{id: "post-polynimial-reduction",
+        
+          title: "Polynimial Reduction",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2023/ADA_Lec_8/";
+          
+        },
+      },{id: "post-applications-of-max-flow",
+        
+          title: "Applications of Max flow",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2023/ADA_Lec_7/";
+          
+        },
+      },{id: "post-polynomial-time-algorithm-to-max-flow-problem",
+        
+          title: "Polynomial time Algorithm to Max flow problem",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2023/ADA_Lec_6/";
+          
+        },
+      },{id: "post-ford-fulkerson-algorithm",
+        
+          title: "Ford-Fulkerson Algorithm",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2023/ADA_Lec_5/";
+          
+        },
+      },{id: "post-max-flow-and-min-cut",
+        
+          title: "Max flow and Min Cut",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2023/ADA_Lec_4/";
+          
+        },
+      },{id: "post-dynamic-programming-rna-secondary-strucure-problem-sequence-alignment-multiple-sequence-alignment",
+        
+          title: "Dynamic Programming:RNA secondary strucure problem, Sequence alignment, Multiple sequence alignment",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2023/ADA_Lec_3/";
+          
+        },
+      },{id: "post-dynamic-programming-knapsack-problem-fibonacci-number",
+        
+          title: "Dynamic Programming:Knapsack Problem, Fibonacci number",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2023/ADA_Lec_2/";
+          
+        },
+      },{id: "post-dynamic-programming-weighted-interval-scheduling",
+        
+          title: "Dynamic Programming:Weighted interval Scheduling",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2023/ADA_Lec_1/";
+          
+        },
       },{id: "books-the-godfather",
           title: 'The Godfather',
           description: "",
